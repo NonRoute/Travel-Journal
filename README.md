@@ -1,4 +1,8 @@
-# co1de428bb58af64549c8ce52
+# AirBnb Experiences clone
+
+Scrimba React Section 2 Solo Project <br/>
+<img height="500" src="/images/index.png"/> <br/>
+You can view the site [here](https://moonlit-eclair-fc163b.netlify.app/).<br/>
 
 Quick start:
 
