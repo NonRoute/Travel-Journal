@@ -1,4 +1,4 @@
-# AirBnb Experiences clone
+# Travel Journal
 
 Scrimba React Section 2 Solo Project <br/>
 <img height="500" src="/images/index.png"/> <br/>
